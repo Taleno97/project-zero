@@ -1,6 +1,6 @@
 <?php 
 
-include '/css/index.html';
+include 'index.html';
 
 
 ?>
